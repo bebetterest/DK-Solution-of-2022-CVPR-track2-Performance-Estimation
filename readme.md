@@ -8,7 +8,7 @@
 
 ### single_model_structure
 
-![alt single_model_structure](pic/single_model_structure.jpeg)
+![alt single_model_structure](single_model_structure.jpeg)
 
 - transformer-style embedding
 - tiny transformer encoder
@@ -17,7 +17,7 @@
 
 ### ensemble_structure
 
-![alt ensemble_structure](pic/ensemble_structure.jpeg)
+![alt ensemble_structure](ensemble_structure.jpeg)
 
 - search-based selection of combinations of tasks
 
