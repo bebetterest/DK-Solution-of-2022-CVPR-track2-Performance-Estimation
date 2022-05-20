@@ -1,6 +1,6 @@
 # DK
 
-## Table of Contents
+Table of Contents
 - [about_team](#about_team)
 - [our_work](#our_work)
 - [Getting_Start](#Getting_Start)
