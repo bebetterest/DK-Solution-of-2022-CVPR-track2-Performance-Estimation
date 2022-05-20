@@ -6,13 +6,20 @@
 
 ## our_work
 
-<center>single_model_structure</center>
+### single_model_structure
 
 ![alt single_model_structure](pic/single_model_structure.jpeg)
 
-<center>ensemble_structure</center>
+- transformer-style embedding
+- tiny transformer encoder
+- multitaskGP
+- ArcKernel
+
+### ensemble_structure
 
 ![alt ensemble_structure](pic/ensemble_structure.jpeg)
+
+- search-based selection of combinations of tasks
 
 ## Getting_Start
 
