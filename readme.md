@@ -1,8 +1,14 @@
 # DK
 
 ## Table of Contents
+- [about_team](#about_team)
 - [our_work](#our_work)
 - [Getting_Start](#Getting_Start)
+
+## about_team
+- [xuefei4545](https://github.com/xuefei4545)
+- [bql](https://github.com/bql)
+- [betterest](https://github.com/bebetterest)
 
 ## our_work
 
