@@ -27,6 +27,6 @@ key points in the picture of our ensemble structure:
 
 ## Getting_Start
 
-run search _multitasks_cp.ipynb to get the search result file (search_res.json) for ensemble.
+run [search _multitasks_cp.ipynb](https://github.com/bebetterest/DK-Solution-of-2022-CVPR-track2-Performance-Estimation/blob/main/search%20_multitasks_cp.ipynb) to get the search result file (search_res.json) for ensemble.
 
-run ensemble_transformer_multitasksGP.ipynb to get the ensemble result.
+run [ensemble_transformer_multitasksGP.ipynb](https://github.com/bebetterest/DK-Solution-of-2022-CVPR-track2-Performance-Estimation/blob/main/ensemble_transformer_multitasksGP.ipynb) to get the ensemble result.
