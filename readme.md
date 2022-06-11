@@ -1,6 +1,8 @@
 # DK
 
-(DK) Solution of 2022-CVPR-track2-Performance-Estimation (11th)
+(DK) Solution of 2022-CVPR-track2-Performance-Estimation (9th)
+
+https://aistudio.baidu.com/aistudio/competition/detail/150/0/leaderboard
 
 Table of Contents
 - [about_team](#about_team)
